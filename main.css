@@ -1,0 +1,18 @@
+body {
+	background:lightgrey;	
+	text-align: center;
+ 	font-family: westminster;  
+	}
+p {
+	
+	}
+all{
+	margin: 10px;
+	padding: 2px;
+	border-style: double;
+	border-color: royalblue;
+	border-top: dashed;
+	border-left: dotted;
+	border-left-color: #fff;
+	border-bottom-left-radius: 50px;
+	}
